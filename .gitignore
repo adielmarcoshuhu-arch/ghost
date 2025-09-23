@@ -1,0 +1,12 @@
+src/
+public/
+index.html
+package.json
+package-lock.json
+vite.config.ts
+tsconfig*
+tailwind.config.js
+postcss.config.js
+eslint.config.js
+dist/
+node_modules/
